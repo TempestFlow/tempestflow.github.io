@@ -14,7 +14,7 @@
       <pubDate>Fri, 16 Oct 2026 16:18:54 +0300</pubDate>
       <guid>https://tempestflow.github.io/posts/antras-irasas/</guid>
       <description>&lt;p&gt;Mano nginx serverio puslapis:&lt;/p&gt;
-&lt;p&gt;![Nginx puslapis](/images/foto.png)&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Nginx puslapis&#34; loading=&#34;lazy&#34; src=&#34;https://tempestflow.github.io/images/foto.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Komanda, kuria paleidau serverį:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl start nginx
